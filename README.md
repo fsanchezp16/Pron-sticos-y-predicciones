@@ -1,1 +1,1 @@
-# Pron-sticos-y-predicciones
+# Pronósticos y predicciones
