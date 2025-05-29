@@ -12,10 +12,10 @@ Con el fin de combatir la cancelación, Model Fitness ha digitalizado varios de 
 
 Tienes que:
 
-Aprender a predecir la probabilidad de pérdida (para el próximo mes) para cada cliente.
-Elaborar retratos de usuarios típicos: selecciona los grupos más destacados y describe sus características principales.
-Analizar los factores que más impactan la pérdida.
-Sacar conclusiones básicas y elaborar recomendaciones para mejorar la atención al cliente:
-identificar a los grupos objetivo;
-sugerir medidas para reducir la rotación;
-describir cualquier otro patrón que observes con respecto a la interacción con los clientes.
+- Aprender a predecir la probabilidad de pérdida (para el próximo mes) para cada cliente.
+- Elaborar retratos de usuarios típicos: selecciona los grupos más destacados y describe sus características principales.
+- Analizar los factores que más impactan la pérdida.
+- Sacar conclusiones básicas y elaborar recomendaciones para mejorar la atención al cliente:
+  Identificar a los grupos objetivo;
+  Sugerir medidas para reducir la rotación;
+  Describir cualquier otro patrón que observes con respecto a la interacción con los clientes.
